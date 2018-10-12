@@ -14,3 +14,7 @@ Node.js should be installed to the machine
 
 ## Note
 Username and Password are `admin`
+
+## Blog Post
+To learn about Double Submit Cookies Pattern visit,  
+http://hirunimirando.blogspot.com/2018/10/double-submit-cookies-pattern-nodejs.html
